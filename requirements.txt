@@ -1,1 +1,8 @@
 jupyterlab>3.0
+openai
+python-dotenv
+langchain_nvidia_ai_endpoints
+langchain_community
+faiss-cpu
+streamlit
+pypdf
