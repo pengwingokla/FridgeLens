@@ -1,3 +1,7 @@
+# Ignore image files in a specific directory
+computervision/datasets/*
+computervision/runs/*
+
 # Ignore generated or temporary files managed by the Workbench
 .project/*
 !.project/spec.yaml
